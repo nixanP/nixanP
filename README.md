@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nixanP
-- 🌱 I study Computer Science
+- 🌱 Computer Science student at UAS Technikum Vienna, Austria
 - 💞️ I’m looking for an internship in IT
 - 📫 How to reach me: niki.plachetzky@gmail.com
